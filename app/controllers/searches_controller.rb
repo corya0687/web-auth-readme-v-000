@@ -1,5 +1,6 @@
 class SearchesController < ApplicationController
   def search
+    binding.pry
   end
 
   def foursquare
